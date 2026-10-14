@@ -3,8 +3,13 @@ footer {
     gap: 24px;
     align-items: center;
     padding-block: 24px;
+    margin-inline: auto;
 }
 
-footer  span:nth-child(1) {
+footer span:nth-child(1) {
     margin-right: auto;
+}
+
+footer a {
+    text-decoration: underline;
 }
