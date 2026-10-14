@@ -21,6 +21,7 @@ header .container {
     height: 220px;
     border-radius: 50%;
     align-items: center;
+    object-fit: cover;
 }
 
 #profile > div {
